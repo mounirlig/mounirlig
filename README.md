@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Hi, my name is Mounir Lighoudi.<br>I automate infrastructure.<br>I'm a DevOps engineer specializing in building scalable, reliable, and secure infrastructure.<br>From CI/CD pipelines to cloud-native architectures, I make deployment effortless.
+🚀Hi, my name is Mounir.<br>I automate infrastructure.<br>I'm a DevOps engineer specializing in building scalable, reliable, and secure infrastructure.<br>From CI/CD pipelines to cloud-native architectures, I make deployment effortless.
 
 
 ## 🌐 Socials:
